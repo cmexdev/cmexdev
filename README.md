@@ -2,6 +2,10 @@
 
 My name is Owen Magill, however I go by several different names. Call me whatever!
 
+## Contact me
+
+Right now, you can [email me](mailto:piccolowen@gmail.com).
+
 ## Find me on the web
 
 I now have 2 functioning websites.
