@@ -6,6 +6,5 @@ my name is owen but i go by many things
 
 
 ```js
-//requires node.js
-console.log(process.argv)
+const jason = require('ezjason')
 ```
