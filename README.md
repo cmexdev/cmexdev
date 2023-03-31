@@ -1,3 +1,3 @@
-# Howdy
+# Hi!
 
-I write code and produce music.
+I'm Owen and I write code, sometimes.
