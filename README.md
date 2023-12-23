@@ -1,3 +1,3 @@
-# Hi!
+# 'sup
 
-I'm Owen and I write code, sometimes.
+i gotta get back to this tbh
